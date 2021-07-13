@@ -1,0 +1,15 @@
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.ADDItem.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.Client.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.Company.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.Form1.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.Properties.Resources.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.SELL.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.SellReport.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.StockReport.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.TotalStockReport.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.UserMst.resources
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/bin/Debug/MEDICAL.exe.config
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/bin/Debug/MEDICAL.exe.mdb
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/bin/Debug/MEDICAL.exe
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.exe
+/home/1972001/Videos/Desktop/backup/MEDICAL/MEDICAL/MEDICAL/obj/Debug/MEDICAL.exe.mdb
